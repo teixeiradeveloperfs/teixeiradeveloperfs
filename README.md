@@ -9,6 +9,7 @@
 <a href="https://ctrlmiguel.com"><img src="https://img.shields.io/badge/ctrlmiguel.com-0d1117?style=for-the-badge&logo=safari&logoColor=5B8DEF" /></a>
 <a href="https://www.linkedin.com/in/miguel-teixeira-706028272/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=5B8DEF" /></a>
 <a href="mailto:miiguelcteixeira@gmail.com"><img src="https://img.shields.io/badge/gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=5B8DEF" /></a>
+<a href="https://www.instagram.com/ctrlmiguel/"><img src="https://img.shields.io/badge/instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=5B8DEF" /></a>
 <img src="https://komarev.com/ghpvc/?username=teixeiradeveloperfs&style=for-the-badge&color=1f3a5f&label=views" />
 
 </div>
@@ -21,6 +22,7 @@ Desenvolvedor full-stack, 23 anos, de Salvador. Construo produtos de ponta a pon
 
 Hoje toco a **AutomaGroup**, empresa de tecnologia com produtos proprietários por assinatura e serviços para operações de iGaming, apostas esportivas e mercado financeiro.
 
+Gosto das partes que ninguém vê: modelagem de autorização, criptografia em repouso, orçamento de latência e suíte de testes que roda contra banco real.
 
 <br>
 
@@ -64,16 +66,5 @@ Hoje toco a **AutomaGroup**, empresa de tecnologia com produtos proprietários p
 </div>
 
 <br>
-
-## Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/miguel-teixeira-706028272/"><b>LINKEDIN</b></a> &nbsp;·&nbsp;
-<a href="https://www.instagram.com/ctrlmiguel/"><b>INSTAGRAM</b></a> &nbsp;·&nbsp;
-<a href="mailto:miiguelcteixeira@gmail.com"><b>GMAIL</b></a> &nbsp;·&nbsp;
-<a href="https://ctrlmiguel.com"><b>SITE</b></a>
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f3a5f,50:16283f,100:0d1117&height=120&section=footer" />
