@@ -21,7 +21,6 @@ Desenvolvedor full-stack, 23 anos, de Salvador. Construo produtos de ponta a pon
 
 Hoje toco a **AutomaGroup**, empresa de tecnologia com produtos proprietários por assinatura e serviços para operações de iGaming, apostas esportivas e mercado financeiro.
 
-Gosto das partes que ninguém vê: modelagem de autorização, criptografia em repouso, orçamento de latência e suíte de testes que roda contra banco real.
 
 <br>
 
