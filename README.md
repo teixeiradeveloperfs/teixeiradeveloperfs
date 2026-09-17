@@ -18,7 +18,7 @@
 
 ## Sobre
 
-Desenvolvedor full-stack, 23 anos, de Salvador. Construo produtos de ponta a ponta: interface, API, banco de dados e a infraestrutura que sustenta tudo isso. Comecei consertando computadores aos 14 e liderei o departamento de tecnologia de uma agência aos 22.
+Desenvolvedor full-stack, 24 anos, de Salvador. Construo produtos de ponta a ponta: interface, API, banco de dados e a infraestrutura que sustenta tudo isso. Comecei consertando computadores aos 14 e liderei o departamento de tecnologia de uma agência aos 22.
 
 Hoje toco a **AutomaGroup**, empresa de tecnologia com produtos proprietários por assinatura e serviços para operações de iGaming, apostas esportivas e mercado financeiro.
 
